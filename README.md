@@ -1,0 +1,3 @@
+This program uses Binance Testnet data to create an OHLC candlestick chart/graph. It ger relevant historical kline data. Then it uses pandas and mplfinance to make the chart. 
+
+Note: Binance Testnet data is not always accurate and ordered and this affects the results. 
